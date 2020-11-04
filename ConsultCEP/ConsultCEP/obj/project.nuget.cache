@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZswGXcSyNo2Qt9YE6SRx8z86cs6HRGg8p96noglfmgzhj+jE+Km4SFubJ/sZdi5LkLtFOeAFlzhYOAk5WQEChg==",
+  "dgSpecHash": "UuPZ5ouyE+xzopdorMDsWWmbJqzjkn5vUfeYbe5vFLDyvO0Qqg7R24vhOnSfe03FVhAmwm3Sb5ZvKZIAfBnJ2g==",
   "success": true,
   "projectFilePath": "D:\\work-space\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Paiva\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Paiva\\.nuget\\packages\\refit\\5.2.1\\refit.5.2.1.nupkg.sha512",
+    "C:\\Users\\Paiva\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
   "logs": []
 }

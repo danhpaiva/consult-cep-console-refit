@@ -6,7 +6,9 @@ namespace ConsultCEP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("\t█▀▀ █▀█ █▄░█ █▀ █░█ █░░ ▀█▀   █▀▀ █▀▀ █▀█\n" +
+                              "\t█▄▄ █▄█ █░▀█ ▄█ █▄█ █▄▄ ░█░   █▄▄ ██▄ █▀");
+            Console.ReadLine();
         }
     }
 }
