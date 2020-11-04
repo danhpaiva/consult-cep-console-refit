@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="./image/consult-cep.png" width="350" title="Daniel Paiva">
+    <img src="./image/consult-cep.png" title="Daniel Paiva">
   </a>
 </p>
 
