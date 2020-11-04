@@ -1,6 +1,10 @@
 # :star: Consultar CEP
 
-<img href="/image/consult-cep.png" title="ConsultCEP">
+<p align="center">
+  <a href="#">
+    <img src="./image/consult-cep.png" width="350" title="Daniel Paiva">
+  </a>
+</p>
 
 ## Descrição
 Aplicação para consumir CEP utilizando uma aplicação console em C# e a biblioteca Refit
