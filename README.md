@@ -1,5 +1,7 @@
 # :star: Consultar CEP
 
+<img href="./image/consult-cep.png" title="ConsultCEP">
+
 ## Descrição
 Aplicação para consumir CEP utilizando uma aplicação console em C# e a biblioteca Refit
 
