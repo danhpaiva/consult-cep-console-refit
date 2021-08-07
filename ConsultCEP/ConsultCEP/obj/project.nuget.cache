@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UuPZ5ouyE+xzopdorMDsWWmbJqzjkn5vUfeYbe5vFLDyvO0Qqg7R24vhOnSfe03FVhAmwm3Sb5ZvKZIAfBnJ2g==",
+  "dgSpecHash": "s+QR/UgOZXnBVNSuhtiEKBZWok+CPwvN1kPjqJQcqZ+texlXPKRyt7lHCgir6kxZwcpSLLMrkRFKE/s3XJgLgA==",
   "success": true,
-  "projectFilePath": "D:\\work-space\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj",
+  "projectFilePath": "D:\\work\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Paiva\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\Paiva\\.nuget\\packages\\refit\\5.2.1\\refit.5.2.1.nupkg.sha512",
-    "C:\\Users\\Paiva\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+    "C:\\Users\\paiva\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\paiva\\.nuget\\packages\\refit\\5.2.1\\refit.5.2.1.nupkg.sha512",
+    "C:\\Users\\paiva\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }

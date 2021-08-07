@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work-space\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj": {}
+    "D:\\work\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj": {}
   },
   "projects": {
-    "D:\\work-space\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj": {
+    "D:\\work\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work-space\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj",
+        "projectUniqueName": "D:\\work\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj",
         "projectName": "ConsultCEP",
-        "projectPath": "D:\\work-space\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj",
-        "packagesPath": "C:\\Users\\Paiva\\.nuget\\packages\\",
-        "outputPath": "D:\\work-space\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\obj\\",
+        "projectPath": "D:\\work\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\ConsultCEP.csproj",
+        "packagesPath": "C:\\Users\\paiva\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\consult-cep-console-refit\\ConsultCEP\\ConsultCEP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Paiva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\paiva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Refit": {
               "target": "Package",
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
